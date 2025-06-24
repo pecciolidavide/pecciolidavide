@@ -2,13 +2,11 @@
 
 <img src=davide.jpg></img>
 
-- Age: 22 yo (born in 2002)
-- Languages: C++, Python, Matlab/Octave
-- Others: Latex (my strength), HTML
+Graduate Math Student at "Università degli Studi di Torino"
 
 ## Contacts
 
-- Telegram: [https://t.me/DavideP02](https://t.me/DavideP02)
-- Email: [pecciolidavide@gmail.com](mailto:pecciolidavide@gmail.com)
+- Email: [pecciolidavide (at) gmail.com](mailto:pecciolidavide@gmail.com)
+- Email: [davide.peccioli (at) edu.unito.it](mailto:davide.peccioli@edu.unito.it)
 
 ---
