@@ -2,7 +2,7 @@
 
 <img src=davide.jpg></img>
 
-Graduate Math Student at "Università degli Studi di Torino"
+Master's student in Mathematics at "Università degli Studi di Torino"
 
 ## Contacts
 
